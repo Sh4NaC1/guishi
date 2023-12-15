@@ -1,0 +1,11 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/x86_64-w64-mingw32-gcc",
+      "-c",
+      "./main.c"
+    ],
+    "directory": "/home/sh4n4c1/jobs/guishi/clib",
+    "file": "/home/sh4n4c1/jobs/guishi/clib/main.c"
+  }
+]
